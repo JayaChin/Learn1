@@ -3,7 +3,7 @@
 Welcome to Basic Git Tutorial
 
 Git is a open source 
-It is a Distributed version control System where each machine has its own local repository 
+It is a Distributed version control System where each machine has its own local repository, that you can push to the remote repository in final.
 unlike to Centralized VCS(only a single server for all the machines)
 
 Git maintains "Trunk Based Development"
