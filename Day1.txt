@@ -1,0 +1,13 @@
+
+
+Welcome to Basic Git Tutorial
+
+Git is open source 
+It is a Distributed version control System where each machine has its own local repository 
+unlike to Centralized VCS(only a single server for all the machines)
+
+Git maintains "Trunk Based Development"
+where it stores all the versions by having master branch and separate branches based on requirement.
+
+Commit is used to save the every change of a version
+
