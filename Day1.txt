@@ -28,9 +28,15 @@ Creating new branch and pull request merge:
    
    All you need to do for creating creating a new branch is:
    
+
+   During commit of the project you will have an option to "commit directly to main branch or Create a new branch". Select new branch option and enter name for this new branch and do " propose CHanges"
+   
+   The other to merge is " go to your repository - compare and pull request option" if you face any conflicts while merging branches, resolve those conflicts manually and confirm merge.
+
    During commit of the project you will have an option to "commit directly to main branch or Create a new branch". Select new branch option and enter name for this new branch and do " propose CHanges".
    
    If you want to merge this new branch to main branch, will have an option to pull request and merge.
    
    
    JayaChin(Username)- Day1(repository) with 2 versions - 1 is main branch and 2nd version is Day1-Nbranch.
+
