@@ -16,3 +16,16 @@ Git Tools are GitHub(Build for developers)
               GitLab(Platform for modern developers)
               BitBucket
 All the git tools are public free i.e., where one can create repositories without any cost, only private repositories are charged that are used for business requirements.
+
+
+Creating new branch and pull request merge:
+   When an user wants to add some new features in the project, then user had an option to update features in the current/main version of the project or else user can create new branch(next version) in the project and add features in the latest version of the project(new branch)
+   
+   Based on users requirement, - if user wants project without any added features then user can go with the main version(master branch) 
+                               - requirement includes features, user can work with the latest version(new branch)
+                               
+   And finally, if the added features gets approved then user had an option to "Pull Request and Merge" where the latest version is merged to main version(new branch is merged into master branch)
+   
+   All you need to do for creating creating a new branch is:
+   
+   During commit of the project you will have an option to "commit directly to main branch or Create a new branch". Select new branch option and enter name for this new branch and do " propose CHanges"
