@@ -2,7 +2,7 @@
 
 Welcome to Basic Git Tutorial
 
-Git is open source 
+Git is a open source 
 It is a Distributed version control System where each machine has its own local repository 
 unlike to Centralized VCS(only a single server for all the machines)
 
@@ -11,3 +11,8 @@ where it stores all the versions by having master branch and separate branches b
 
 Commit is used to save the every change of a version
 
+
+Git Tools are GitHub(Build for developers)
+              GitLab(Platform for modern developers)
+              BitBucket
+All the git tools are public free i.e., where one can create repositories without any cost, only private repositories are charged that are used for business requirements.
