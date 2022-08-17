@@ -38,5 +38,5 @@ Creating new branch and pull request merge:
    If you want to merge this new branch to main branch, will have an option to pull request and merge.
    
    
-   JayaChin(Username)- Day1(repository) with 2 versions - 1 is main branch and 2nd version is Day1-Nbranch.
+   JayaChin(Username)- Learn1(repository) - Day1(file name)with 2 versions - 1 is main branch and 2nd version is Day1-Nbranch.
 
